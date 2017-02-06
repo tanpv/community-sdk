@@ -53,6 +53,26 @@ See [changelog](CHANGELOG.md)
 ## API Documentation
 http://emotiv.github.io/community-sdk/
 
+## API Code Example
+| Name  |Supported Language   |is Need SDK License ?   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 ## Apps and Tools
 
 #### Xavier EmoComposer
