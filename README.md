@@ -56,15 +56,15 @@ http://emotiv.github.io/community-sdk/
 
 ## API Code Example
 
-There are 2 groups of examples :
+Have 2 groups of examples :
  * Examples which could run without SDK license are placed inside folder **examples_basic**
  * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**
 
 Table below describe examples indetail :
 
-| Name  | Could run without license |Available with language|
+| Name  | Could run without license |Supported language|
 |---|---|---|
-| AverageBandPowers (FFTSample) | Yes | C++, C#, Java, Python, Android, iOS, Mac |
+| AverageBandPowers | Yes | C++, C#, Java, Python |
 | EmoStateLogger | Yes | C++, C#, Java, Python|
 | FacialExpressionDemo | Yes | C++, Matlab, Android, Mac |
 | GyroData | Yes | C++ |
@@ -75,12 +75,13 @@ Table below describe examples indetail :
 | MotionDataLogger | Yes | C++, C#, Java, Python, Android, iOS, Mac |
 | MultiDongleConnection | Yes | C++, C#, Python |
 | SavingAndLoadingProfileCloud | Yes | C++, C#, Java, Python, iOS, Mac |
+| FFTSample  | Yes | Android, iOS, Mac |
 | RollingBall  | Yes | Unity |
 | ActivateLicense  | No | C++, C#, Java, Python |
-| EEGLogger  | No | C++, C#, Java, Python, Matlab |
-| MultiDongleEEGLogger  | No | C++ |
-| MultilChannelEEGLogger  | No | C++ |
-| PerformanceMetricsDemo  | No | C++, C# |
+| EEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++, C#, Java, Python, Matlab |
+| MultiDongleEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
+| MultilChannelEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
+| PerformanceMetricsDemo  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++, C# |
 
 ## Apps and Tools
 
