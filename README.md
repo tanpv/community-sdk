@@ -56,7 +56,7 @@ http://emotiv.github.io/community-sdk/
 
 ## API Code Example
 
-Have 2 groups of examples :
+There are 2 groups of examples :
  * Examples which could run without SDK license are placed inside folder **examples_basic**
  * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**
 
