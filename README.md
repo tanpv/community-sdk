@@ -21,8 +21,9 @@ Android SDK will be updated on [jcenter](https://bintray.com/nguoithichkhampha/m
 2. [Supported Platforms](#supported-platforms)
 3. [Connecting with BTLE](#connecting-with-btle)
 4. [API Documentation](#api-documentation)
-5. [Apps and Tools](#apps-and-tools)
-6. [Support](#support)
+5. [API Code Example](#api-code-example)
+6. [Apps and Tools](#apps-and-tools)
+7. [Support](#support)
 
 ## Changelog
 See [changelog](CHANGELOG.md)
