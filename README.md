@@ -58,7 +58,8 @@ http://emotiv.github.io/community-sdk/
 
 Have 2 groups of examples :
  * Examples which could run without SDK license are placed inside folder **examples_basic**
- * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**
+ * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**.
+   If you want to use these functionality in your development, please [contact us for license](https://www.emotiv.com/sdk-premium-edition-application-form/)
 
 Table below describe examples indetail :
 
@@ -78,7 +79,7 @@ Table below describe examples indetail :
 | FFTSample  | Yes | Android, iOS, Mac |
 | RollingBall  | Yes | Unity |
 | ActivateLicense  | No | C++, C#, Java, Python |
-| EEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++, C#, Java, Python, Matlab |
+| EEGLogger  | No | C++, C#, Java, Python, Matlab |
 | MultiDongleEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
 | MultilChannelEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
 | PerformanceMetricsDemo  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++, C# |
