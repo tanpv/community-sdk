@@ -64,7 +64,7 @@ Table below describe examples indetail :
 
 | Name  | Could run without license |Available with language|
 |---|---|---|
-| AverageBandPowers | Yes | C++, C#, Java, Python |
+| AverageBandPowers (FFTSample) | Yes | C++, C#, Java, Python, Android, iOS, Mac |
 | EmoStateLogger | Yes | C++, C#, Java, Python|
 | FacialExpressionDemo | Yes | C++, Matlab, Android, Mac |
 | GyroData | Yes | C++ |
@@ -75,7 +75,6 @@ Table below describe examples indetail :
 | MotionDataLogger | Yes | C++, C#, Java, Python, Android, iOS, Mac |
 | MultiDongleConnection | Yes | C++, C#, Python |
 | SavingAndLoadingProfileCloud | Yes | C++, C#, Java, Python, iOS, Mac |
-| FFTSample  | Yes | Android, iOS, Mac |
 | RollingBall  | Yes | Unity |
 | ActivateLicense  | No | C++, C#, Java, Python |
 | EEGLogger  | No | C++, C#, Java, Python, Matlab |
