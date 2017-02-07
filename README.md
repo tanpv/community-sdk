@@ -80,9 +80,9 @@ Table below describe examples indetail :
 | RollingBall  | Yes | Unity |
 | ActivateLicense  | No | C++, C#, Java, Python |
 | EEGLogger  | No | C++, C#, Java, Python, Matlab |
-| MultiDongleEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
-| MultilChannelEEGLogger  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++ |
-| PerformanceMetricsDemo  | No [Contact for license](https://www.emotiv.com/sdk-premium-edition-application-form/)| C++, C# |
+| MultiDongleEEGLogger  | No | C++ |
+| MultilChannelEEGLogger  | No | C++ |
+| PerformanceMetricsDemo  | No | C++, C# |
 
 ## Apps and Tools
 
