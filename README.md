@@ -70,7 +70,7 @@ Table below describe examples indetail :
 | FacialExpressionDemo | Yes | C++, Matlab | Win, Mac, Ubuntu, Android |
 | GyroData | Yes | C++ | Win, Mac, Ubuntu |
 | HeadsetInformationLogger | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu |
-| MentalCommandDemo | Yes | C++, Android, Mac | Win, Mac, Ubuntu, Android |
+| MentalCommandDemo | Yes | C++ | Win, Mac, Ubuntu, Android |
 | MentalCommandWithCloudProfile | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu, Android |
 | MentalCommandWithLocalProfile | Yes | C++ | Win, Mac, Ubuntu |
 | MotionDataLogger | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu, Android, iOS |
