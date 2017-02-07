@@ -62,7 +62,7 @@ Have 2 groups of examples :
 
 Table below describe examples indetail :
 
-| Name  | Could run without license |Supported language|
+| Name  | Could run without license |Available with language|
 |---|---|---|
 | AverageBandPowers | Yes | C++, C#, Java, Python |
 | EmoStateLogger | Yes | C++, C#, Java, Python|
