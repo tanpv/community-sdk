@@ -58,29 +58,30 @@ http://emotiv.github.io/community-sdk/
 
 There are 2 groups of examples :
  * Examples which could run without SDK license are placed inside folder **examples_basic**
- * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**
+ * Examples which need to have SDK license to run are placed inside folder **examples_extra_prime**.
+   In case you want to use these functionality in your development, please [contact us for license](https://www.emotiv.com/sdk-premium-edition-application-form/)
 
 Table below describe examples indetail :
 
-| Name  | Could run without license |Available with language|
-|---|---|---|
-| AverageBandPowers (FFTSample) | Yes | C++, C#, Java, Python, Android, iOS, Mac |
-| EmoStateLogger | Yes | C++, C#, Java, Python|
-| FacialExpressionDemo | Yes | C++, Matlab, Android, Mac |
-| GyroData | Yes | C++ |
-| HeadsetInformationLogger | Yes | C++, C#, Java, Python |
-| MentalCommandDemo | Yes | C++, Android, Mac |
-| MentalCommandWithCloudProfile | Yes | C++, C#, Java, Python, Android |
-| MentalCommandWithLocalProfile | Yes | C++ |
-| MotionDataLogger | Yes | C++, C#, Java, Python, Android, iOS, Mac |
-| MultiDongleConnection | Yes | C++, C#, Python |
-| SavingAndLoadingProfileCloud | Yes | C++, C#, Java, Python, iOS, Mac |
-| RollingBall  | Yes | Unity |
-| ActivateLicense  | No | C++, C#, Java, Python |
-| EEGLogger  | No | C++, C#, Java, Python, Matlab |
-| MultiDongleEEGLogger  | No | C++ |
-| MultilChannelEEGLogger  | No | C++ |
-| PerformanceMetricsDemo  | No | C++, C# |
+| Name  | Could run without license |Available with language|Support Platform|
+|---|---|---|---|
+| AverageBandPowers (FFTSample) | Yes | C++, C#, Java, Python |Win, Mac, Ubuntu, Android, iOS|
+| EmoStateLogger | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu |
+| FacialExpressionDemo | Yes | C++, Matlab | Win, Mac, Ubuntu, Android |
+| GyroData | Yes | C++ | Win, Mac, Ubuntu |
+| HeadsetInformationLogger | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu |
+| MentalCommandDemo | Yes | C++, Android, Mac | Win, Mac, Ubuntu, Android |
+| MentalCommandWithCloudProfile | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu, Android |
+| MentalCommandWithLocalProfile | Yes | C++ | Win, Mac, Ubuntu |
+| MotionDataLogger | Yes | C++, C#, Java, Python | Win, Mac, Ubuntu, Android, iOS |
+| MultiDongleConnection | Yes | C++, C#, Python | Win, Mac, Ubuntu |
+| SavingAndLoadingProfileCloud | Yes | C++, C#, Java, Python |Win, Mac, Ubuntu, iOS|
+| RollingBall  | Yes | Unity | Win, Mac |
+| ActivateLicense  | No | C++, C#, Java, Python | Win, Mac, Ubuntu |
+| EEGLogger  | No | C++, C#, Java, Python, Matlab | Win, Mac, Ubuntu |
+| MultiDongleEEGLogger  | No | C++ | Win, Mac, Ubuntu |
+| MultilChannelEEGLogger  | No | C++ | Win, Mac, Ubuntu |
+| PerformanceMetricsDemo  | No | C++, C# | Win, Mac, Ubuntu |
 
 ## Apps and Tools
 
